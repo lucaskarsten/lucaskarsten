@@ -1,12 +1,109 @@
-# 💫 About Me:
-💻 About Me<br><br>🚀 I’m currently working on<br>Building and improving open-source projects on my GitHub while exploring new ideas in software development to grow my portfolio and technical skills.<br><br>🤝 I’m looking to collaborate on<br>Web and JavaScript-focused projects, especially ones that embrace creativity, community participation and real-world impact (open source, tools, automation).<br><br>🧠 I’m looking for help with<br>Learning advanced development patterns, expanding contributions to community-driven repositories, and discovering best practices for scalable code.<br><br>📚 I’m currently learning<br>New frameworks and libraries, modern tooling in JavaScript eco-system, and techniques to improve code quality & developer experience.<br><br>☁️ Ask me about<br>My approach to problem solving, how I structure projects on GitHub, and what I enjoy most in software development.<br><br>⚡ Fun fact<br>I love digging into bugs and figuring out how things work under the hood — curiosity drives a lot of my coding journey.
+<div align="center">
 
+```
+██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
+██║     ██║   ██║██╔════╝██╔══██╗██╔════╝
+██║     ██║   ██║██║     ███████║███████╗
+██║     ██║   ██║██║     ██╔══██║╚════██║
+███████╗╚██████╔╝╚██████╗██║  ██║███████║
+╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
+```
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lucaskarsten) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-karsten) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucaskarsten@hotmail.com) 
+**`lucas karsten · software developer`**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-karsten)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaskarsten)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaskarsten@hotmail.com)
 
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### `> whoami`
+
+```ts
+const lucas = {
+  role:      "Software Developer",
+  location:  "Brazil 🇧🇷",
+  mindset:   "dig until it makes sense, then make it better",
+  focus:     ["backend systems", "web apps", "AI tooling", "open source"],
+  currently: ["mibi-core", "harpiahub CRM", "genexus-ai-toolkit"],
+}
+```
+
+---
+
+### `> stack --list`
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+**Frontend / Backend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
+
+**Data**
+
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+
+**AI**
+
+![Claude](https://img.shields.io/badge/Claude%20Code-%23D97706.svg?style=flat-square&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### `> git log --oneline --recent`
+
+```
+feat(crm)     → harpiahub — kanban with role-based column control (manager/SDR)
+feat(toolkit) → genexus-ai-toolkit — AI-assisted dev for GeneXus 18
+feat(core)    → mibi-core — 49 commits in June
+feat(rom)     → portable-rom-kit — portable setup utilities
+feat(mcp)     → MCP_Figma — Figma integration via Model Context Protocol
+```
+
+---
+
+### `> stats --year`
+
+<div align="center">
+
+[![streak](https://streak-stats.demolab.com?user=lucaskarsten&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/lucaskarsten)
+
+</div>
+
+---
+
+### `> philosophy`
+
+```
+- understand before copying
+- small PRs, readable diffs
+- code that explains itself
+- a bug is just curiosity in disguise
+```
+
+---
+
+<div align="center">
+
+`5223 contributions · 47 repos · Brazil · 2026`
+
+</div>
